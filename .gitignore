@@ -1,0 +1,10 @@
+.venv/
+absa_model/.venv/
+absa_model/.gradio/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.pytest_cache/
+absa_model.zip
+absa_model/model.safetensors
